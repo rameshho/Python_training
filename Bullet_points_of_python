@@ -1,0 +1,5 @@
+1. Rather than writting comment, "use sensible variables which explain by itself."
+2. a = "ramesh Hosamani"
+  id(a[0]) and id(a[1]) is different (as it will not store in contiguous memory location).
+3. In slicing index is not cyclic like eg:- a[-5:1] is not permitted.
+   try also :- a[-5:-1:-1], a[-5:-1:2] a[25:] a[-1:-5:-1] a[-1:-5]
