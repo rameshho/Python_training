@@ -10,3 +10,5 @@
 
 6. Encrypt decrypt passwords :- https://nitratine.net/blog/post/encryption-and-decryption-in-python/
                                 https://www.youtube.com/watch?time_continue=212&v=H8t4DJ3Tdrg
+
+7. import getpass     #getpass module is used to prompt for password prompt
